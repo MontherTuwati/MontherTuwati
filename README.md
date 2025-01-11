@@ -1,4 +1,4 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/MontherTuwati/MontherTuwati/master/wave.gif" width="30px" height="30px" />
+# Hello, there! <img src="https://raw.githubusercontent.com/MontherTuwati/MontherTuwati/main/wave.gif" width="30px" height="30px" />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
