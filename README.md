@@ -16,10 +16,9 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/MontherTuwati/MontherTuwati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontherTuwati&layout=donut" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=MontherTuwati&theme=default&show_icons=true&height=2" alt="MontherTuwati's GitHub Stats" />
 </a>
 <a href="https://github.com/MontherTuwati/MontherTuwati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MontherTuwati&theme=default&show_icons=true&size_weight=1" alt="MontherTuwati's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontherTuwati&layout=donut" />
 </a>
