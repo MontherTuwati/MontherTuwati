@@ -1,3 +1,5 @@
+# Hello, there! <img src="https://raw.githubusercontent.com/MontherTuwati/MontherTuwati/master/wave.gif" width="30px" height="30px" />
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -16,8 +18,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MontherTuwati/MontherTuwati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontherTuwati&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontherTuwati&layout=donut" />
 </a>
 <a href="https://github.com/MontherTuwati/MontherTuwati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MontherTuwati&theme=default&show_icons=true" alt="MontherTuwati's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MontherTuwati&theme=default&show_icons=true&size_weight=1" alt="MontherTuwati's GitHub Stats" />
 </a>
