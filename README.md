@@ -1,4 +1,5 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MontherTuwati/MontherTuwati/main/wave.gif" width="30px" height="30px" />
+
 <h3 align="center">A passionate Software Engineer from the land of maple syrup, Canada.</h3>
 
 ## 🔧 Technologies & Tools
@@ -6,9 +7,10 @@
 
 ## &#x1f4c8; GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monthertuwati&show_icons=true&locale=en" alt="monthertuwati" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monthertuwati&" alt="monthertuwati" /></p>
 
-## &#x1f4c8; Connect with me:
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/monthertuwati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monthertuwati" height="30" width="40" /></a>
 <a href="https://fb.com/monthertuwati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="monthertuwati" height="30" width="40" /></a>
