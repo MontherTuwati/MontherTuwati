@@ -5,13 +5,13 @@
 <h1></h1> 
 
 - 🚀 More than 3 years of experience creating innovative and user-friendly applications
-- 💼 Currently working as a [Freelancer](https://algoace.com/) as a Full Stack Hybrid App Developer using React Native and AWS services
+- 💼 Currently working as a [Freelancer](https://www.upwork.com/freelancers/~01617d414cf322bcee) as a Full Stack Hybrid App Developer using React Native and AWS services
 - 🌱 Continuously learning and exploring new technologies
-- 🎓 Visit my [Portfolio](https://muhammadaamirmalik.com/) to learn more about my work
+- 🎓 Visit my [Portfolio](https://monty.dev/) to learn more about my work
 
 <h2>🔧 Technologies & Tools</h2>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Programming Languages</h3>
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
