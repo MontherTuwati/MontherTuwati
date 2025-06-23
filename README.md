@@ -80,9 +80,7 @@
 </p>
 
 ## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=monthertuwati&show_icons=true&locale=en" alt="monthertuwati" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monthertuwati" alt="monthertuwati" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monthertuwati&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monthertuwati" alt="GitHub Streak" />
+</p>
