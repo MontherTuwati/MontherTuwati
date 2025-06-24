@@ -34,6 +34,10 @@
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
+  <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="CanvasJS" src="https://img.shields.io/badge/-CanvasJS-FF8300?style=flat-square&logo=canvasjs&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 </p>
 
 <h3 align="left">Backend & Databases</h3>
@@ -59,12 +63,8 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-  <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="CanvasJS" src="https://img.shields.io/badge/-CanvasJS-FF8300?style=flat-square&logo=canvasjs&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
   <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" />
@@ -77,10 +77,4 @@
   <a href="https://www.instagram.com/muhammadaamirmalikk" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammadaamirmalikk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:malikaamirdev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monthertuwati&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monthertuwati" alt="GitHub Streak" />
 </p>
