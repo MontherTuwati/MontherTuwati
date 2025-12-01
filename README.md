@@ -5,9 +5,9 @@
 <h1></h1> 
 
 - 🚀 More than 3 years of experience creating innovative and user-friendly applications
-- 💼 Currently working as a [Freelancer](https://www.upwork.com/freelancers/~01617d414cf322bcee?mp_source=share) as a Full Stack Hybrid App Developer using React Native and AWS services
+- 💼 Currently working as a Freelance as a Full Stack Developer
 - 🌱 Continuously learning and exploring new technologies
-- 🎓 Visit my [Portfolio](https://monty.dev/) to learn more about my work
+- 🎓 Visit my [Portfolio](https://mtuwati.ca/) to learn more about my work
 
 <h2>🔧 Technologies & Tools</h2>
 
