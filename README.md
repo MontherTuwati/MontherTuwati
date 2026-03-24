@@ -5,7 +5,7 @@
 <h1></h1> 
 
 - 🚀 More than 3 years of experience creating innovative and user-friendly applications
-- 💼 Currently working as a Freelance as a Full Stack Developer
+- 💼 Currently working as a Full Stack Developer
 - 🌱 Continuously learning and exploring new technologies
 - 🎓 Visit my [Portfolio](https://mtuwati.ca/) to learn more about my work
 
